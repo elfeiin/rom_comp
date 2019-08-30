@@ -1,5 +1,5 @@
 [package]
-name = "roman_tally"
+name = "rom_comp"
 version = "0.1.0"
 authors = ["nicename"]
 edition = "2018"
