@@ -1,4 +1,4 @@
-fn parse(input: String) -> Option<isize> {
+pub fn parse(input: &String) -> Option<isize> {
 	
 	// Remove invalid characters and convert from nominals
 	// to numbers.
